@@ -1,0 +1,17 @@
+.cache
+.sass-cache
+.idea
+.package
+.log
+node_modules
+temp/
+logs/
+.settings
+uploads
+.buildpath
+.project
+.htaccess
+local
+test
+vendor
+*.lock
